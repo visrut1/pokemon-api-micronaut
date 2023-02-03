@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: pokemonApi
+netty:
+  default:
+    allocator:
+      max-order: 3
